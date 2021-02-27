@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pit
+comment1.params=stone
+comment1.target=Pit(int)
+comment2.params=stone
+comment2.target=void\ setStone(int)
+comment3.params=
+comment3.target=int\ getStone()
+comment4.params=next
+comment4.target=void\ setNext(Pit)
+comment5.params=
+comment5.target=Pit\ getNext()
+numComments=6

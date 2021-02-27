@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=tl\ tr\ bl\ br\ ffloat\ shapeType
+comment1.target=Shape(boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ int)
+comment2.params=row\ column
+comment2.target=Block\ getBlock(int,\ int)
+comment3.params=
+comment3.target=int\ getType()
+comment4.params=
+comment4.target=boolean\ getFfloat()
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ShapeList
+comment1.params=
+comment1.target=ShapeList()
+comment2.params=
+comment2.target=Shape\ randomShape()
+comment3.params=myShape
+comment3.target=void\ display(Shape)
+comment4.params=myShape
+comment4.target=Shape\ changeShape(Shape)
+numComments=5

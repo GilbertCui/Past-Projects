@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=value
+comment1.target=Block(boolean)
+comment2.params=
+comment2.target=boolean\ getValue()
+comment3.params=myValue
+comment3.target=void\ setValue(boolean)
+numComments=4
