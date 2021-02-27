@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AbilityPane
+comment1.params=
+comment1.target=AbilityPane()
+comment2.params=event
+comment2.target=void\ processChoice(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ processButtonPress(javafx.event.ActionEvent)
+comment4.params=
+comment4.target=boolean\ getStatus()
+comment5.params=
+comment5.target=javafx.scene.layout.BorderPane\ getPane()
+numComments=6

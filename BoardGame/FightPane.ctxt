@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FightPane
+comment1.params=
+comment1.target=FightPane()
+comment2.params=event
+comment2.target=void\ processButtonPress(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ processMouseMove(javafx.scene.input.MouseEvent)
+comment4.params=event
+comment4.target=void\ processTimePass(javafx.event.ActionEvent)
+comment5.params=
+comment5.target=javafx.scene.layout.GridPane\ getPane()
+numComments=6

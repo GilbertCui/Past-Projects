@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EndPane
+comment1.params=
+comment1.target=EndPane()
+comment2.params=
+comment2.target=javafx.scene.layout.StackPane\ getPane()
+numComments=3
